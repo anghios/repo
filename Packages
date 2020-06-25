@@ -1,13 +1,13 @@
 Package: com.malcolmhall.wifipasswords
 Version: 2.0.0-1
 Section: Tweaks
-Maintainer: Anghiository
+Maintainer: Anghios <reposithree@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.malcolmhall.wifipasswords.deb
 Size: 851964
 MD5sum: 9780d5aa2b6f5197f53be6457a56c18a
-Description: You can see all saved WiFi passwords
+Description: This is a sample new package. Firmware should be greater than 7.0
 Name: WiFi Passwords
-Author: Malcolm Hall
-Depiction: https://anghios.github.io/repo/depictions/?p=com.malcolmhall.wifipasswords
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.malcolmhall.wifipasswords
