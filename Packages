@@ -1,13 +1,27 @@
 Package: com.malcolmhall.wifipasswords
 Version: 2.0.0-1
 Section: Tweaks
-Maintainer: Anghios <reposithree@gmail.com>
+Maintainer: Anghios
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.malcolmhall.wifipasswords.deb
 Size: 851964
 MD5sum: 9780d5aa2b6f5197f53be6457a56c18a
-Description: This is a sample new package. Firmware should be greater than 7.0
+Description: Watch all saved WiFi passwords
 Name: WiFi Passwords
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.malcolmhall.wifipasswords
+Author: Anghios <reposithree@gmail.com>
+Depiction: https://anghios.github.io/repo/depictions/?p=com.malcolmhall.wifipasswords
+
+Package: com.rpetrich.powercuff
+Version: 2.0.0-1
+Section: Tweaks
+Maintainer: Anghios
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.rpetrich.powercuff.deb
+Size: 11072
+MD5sum: 3498fe658e2376e57b9da9e589bc8a9b
+Description: Battery saver
+Name: Powercuff
+Author: Anghios <reposithree@gmail.com>
+Depiction: https://anghios.github.io/repo/depictions/?p=com.rpetrich.powercuff
