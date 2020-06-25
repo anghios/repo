@@ -1,8 +1,8 @@
-Origin: AnghiosG
-Label: NestorG
+Origin: Anghiository
+Label: Anghiository
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: RepAnghios - Cydia random repo
+Description: Anghiository - Random jailbreak tweaks
