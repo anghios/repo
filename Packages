@@ -39,3 +39,17 @@ Description: Get free premium in Spotify (works in 13.5.1 with CarPlay too)
 Name: Powercuff
 Author: Anghios <reposithree@gmail.com>
 Depiction: https://anghios.github.io/repo/depictions/?p=com.anghios.spotilife
+
+Package: com.qiop1379.bongwater
+Version: 1.1.2
+Section: Tweaks
+Maintainer: Anghios
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.qiop1379.bongwater.deb
+Size: 19782
+MD5sum: 62000d767e345f92c9416f3b163187ef
+Description: Redesign phone app only on ios 13+
+Name: Bongwater
+Author: quiop1379
+Depiction: https://anghios.github.io/repo/depictions/?p=com.qiop1379.bongwater
