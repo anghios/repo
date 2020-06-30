@@ -44,7 +44,7 @@ Package: com.qiop1379.bongwater
 Version: 1.1.2
 Section: Tweaks
 Maintainer: Anghios
-Depends: firmware (>7.0), mobilesubstrate
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.qiop1379.bongwater.deb
 Size: 19782
