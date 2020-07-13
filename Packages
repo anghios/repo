@@ -53,3 +53,17 @@ Description: Redesign phone app only on ios 13+
 Name: Bongwater
 Author: quiop1379
 Depiction: https://anghios.github.io/repo/depictions/?p=com.qiop1379.bongwater
+
+Package: net.cadoth.nosbreload
+Version: 1.1.2
+Section: Tweaks
+Maintainer: Anghios
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/net.cadoth.nosbreload.deb
+Size: 3290
+MD5sum: 004c3396d759044b59bc37bc26d6d0e7
+Description: Replaces 'sbreload' binary to 'killall -9 springboard' to fix autofill in iOS 13
+Name: NoSBReload
+Author: Cadoth
+Depiction: https://anghios.github.io/repo/depictions/?p=net.cadoth.nosbreload
